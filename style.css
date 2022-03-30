@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap");
+
+.top {
+  max-width: 900px;
+  margin: 0 auto;
+  font-size: 14px;
+  padding: 50px;
+  text-align: center;
+  word-spacing: 100px;
+  line-height: 24px;
+  text-transform: uppercase;
+  font-family: "Playfair Display";
+  word-spacing: 100px;
+}
+
+a:link {
+  text-decoration: none;
+  color: #626262;
+}
+
+a:hover {
+  color: #03a9f4;
+}
+
+ul.top li {
+  display: inline;
+}
+h2 {
+  font-size: 14px;
+  color: #b4ad9e;
+  font-family: "Ubuntu", sans-serif;
+  text-transform: uppercase;
+}
+h3 {
+  font-size: 30px;
+  color: #626262;
+  font-weight: 400;
+  font-family: "Playfair Display";
+}
+
+p {
+  font-size: 14px;
+  color: #626262;
+  font-family: "Playfair Display";
+}
+
+img {
+  width: 420px;
+  height: 280px;
+}
+
+div.block {
+  width: 900px;
+  margin: auto;
+  display: block;
+}
+
+.block1 {
+  float: left;
+  margin-right: 60px;
+  margin-bottom: 110px;
+  width: 420px;
+}
+
+.block2 {
+  float: right;
+  width: 420px;
+  /* margin-bottom: 110px; */
+}
+.block2 {
+  margin-bottom: 110px;
+}
+
+.butt {
+  border: 1px solid #626262;
+  width: 150px;
+  height: 50px;
+  background-color: #fff;
+  font-family: "Playfair Display";
+  font-size: 20px;
+  color: #626262;
+  line-height: 24px;
+  cursor: pointer;
+  margin: auto;
+  display: block;
+}
